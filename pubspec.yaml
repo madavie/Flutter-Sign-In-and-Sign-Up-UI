@@ -88,3 +88,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+
+  assets:
+    - assets/icons/google.png
+    - assets/icons/apple.png
+    - assets/icons/facebook.png
+
